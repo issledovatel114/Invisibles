@@ -1,0 +1,6 @@
+{
+  "dataFile": "Build/Build_VK.data.gz",
+  "codeFile": "Build/Build_VK.wasm.gz",
+  "loaderFile": "Build/Build_VK.loader.js",
+  "frameworkFile": "Build/Build_VK.framework.js.gz"
+}
