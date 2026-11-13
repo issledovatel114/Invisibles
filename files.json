@@ -1,6 +1,6 @@
 {
-  "dataFile": "Build/Build_VK.data.gz",
-  "codeFile": "Build/Build_VK.wasm.gz",
+  "dataFile": "Build/Build_VK.data.unityweb",
+  "codeFile": "Build/Build_VK.wasm.unityweb",
   "loaderFile": "Build/Build_VK.loader.js",
-  "frameworkFile": "Build/Build_VK.framework.js.gz"
+  "frameworkFile": "Build/Build_VK.framework.js.unityweb"
 }
